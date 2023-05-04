@@ -1,5 +1,5 @@
 # YumMy
-## Tafrika "Patika React Native Ödevi"
+## Tarifka "Patika React Native Ödevi"
 [Patika Profilim](https://app.patika.dev/haham)
 
 
