@@ -1,5 +1,4 @@
 # YumMy
-Recipe App - Discover Delicious Meals
 
 This is a React Native mobile application that serves as a recipe app, allowing users to explore a variety of mouthwatering dishes from different categories and cuisines. The app provides a simple and intuitive user interface to browse through categories, view a list of meals under each category, and access detailed recipes for each meal. It leverages the power of React Navigation for seamless navigation between screens and fetching data from a remote API using a custom hook, enabling users to discover and learn more about their favorite recipes.
 <p align="center"><img src="https://user-images.githubusercontent.com/100444900/236217447-9a83f6a3-df95-48c6-9f28-4f04d4f5097b.png" alt="logo" width="300"></p>
